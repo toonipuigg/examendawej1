@@ -1,0 +1,9 @@
+[
+    {
+        "id": 0,
+        "producto": "zapatillas",
+        "nombre": "air force 1",
+        "precio": 100,
+        "descripcion": "descripcion"
+    }
+]
